@@ -1,7 +1,6 @@
 # TailRec-anonymous
 ## TailRec
 
-Anonymously submitted to WWW'2023
 
 ## Requirements
 
